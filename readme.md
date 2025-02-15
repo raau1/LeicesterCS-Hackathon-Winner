@@ -23,11 +23,9 @@ A **digital “insider guide”** to campus that new or busy students would love
 
 ### 🔍 **Basic Filtering**
 - Allow users to filter locations (e.g., show only water dispensers).  
-- Implement a **button-toggling system** for easy UI interaction.
 
 ### 🗺 **Map Integration (Future Potential)**
-- If time allows, integrate a **basic map view** with pins for each POI.
-- **Too complex?** Stick to a simple **list or grid format** instead.
+- Integrate a **Basic map view** with pins for each POI.
 
 ### 🏗 **User Contributions (Future Potential)**
 - Let users **suggest new POI locations**, creating a **community-driven resource**.
@@ -37,9 +35,8 @@ A **digital “insider guide”** to campus that new or busy students would love
 ## 🛠 Future Tech Stack Options
 
 ### 📌 **Backend Logic**
-- Use **C#** or **Java** for handling data storage & retrieval.  
-  ✅ **C# is recommended** since it’s familiar and easier for this task.
-
+- Use **C#** or **Java** for handling data storage & retrieval.
+  
 ### 🎨 **Frontend/UI**
 - **Web-based:** Use **JavaScript** with [Leaflet.js](https://leafletjs.com/) for interactive maps.  
 - **Desktop/Mobile App:** Use **Unity** with **C#**.
