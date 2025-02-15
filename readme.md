@@ -1,4 +1,4 @@
-# 🏆 2024/25 - Let's Hack Leicester - Student Pack Prototype Competition
+# 🏆 2024/25 - Let's Hack Leicester - Two-Day Student Pack Prototype Competition
 
 ## 🚀 My Project: Campus Essentials Locator
 
